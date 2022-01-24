@@ -1,1 +1,139 @@
-Логи
+commit eb09fd36e4e8ff3ffe2c2db3244d6191623e4916 (HEAD -> main, origin/main, origin/HEAD)
+Author: Ferter1 <98089387+Ferter1@users.noreply.github.com>
+Date:   Mon Jan 24 12:57:36 2022 +0900
+
+    Наполнить файлы
+
+commit 5783b82247c8cc18c751e8a3d0f69e181c3b64de
+Author: Ferter1 <98089387+Ferter1@users.noreply.github.com>
+Date:   Mon Jan 24 12:57:00 2022 +0900
+
+    Добавил test8
+
+commit 0933d2963a16c6cb07a1cf71adac71e8db1311a1
+Author: Ferter1 <98089387+Ferter1@users.noreply.github.com>
+Date:   Mon Jan 24 12:55:57 2022 +0900
+
+    Delete test7.txt
+
+commit 37956478afd846f2836f7d22d426352589aadde3
+Author: Ferter1 <98089387+Ferter1@users.noreply.github.com>
+Date:   Mon Jan 24 12:54:50 2022 +0900
+
+:...skipping...
+commit eb09fd36e4e8ff3ffe2c2db3244d6191623e4916 (HEAD -> main, origin/main, origin/HEAD)
+Author: Ferter1 <98089387+Ferter1@users.noreply.github.com>
+Date:   Mon Jan 24 12:57:36 2022 +0900
+
+    Наполнить файлы
+
+commit 5783b82247c8cc18c751e8a3d0f69e181c3b64de
+Author: Ferter1 <98089387+Ferter1@users.noreply.github.com>
+Date:   Mon Jan 24 12:57:00 2022 +0900
+
+    Добавил test8
+
+commit 0933d2963a16c6cb07a1cf71adac71e8db1311a1
+Author: Ferter1 <98089387+Ferter1@users.noreply.github.com>
+Date:   Mon Jan 24 12:55:57 2022 +0900
+
+    Delete test7.txt
+
+commit 37956478afd846f2836f7d22d426352589aadde3
+Author: Ferter1 <98089387+Ferter1@users.noreply.github.com>
+Date:   Mon Jan 24 12:54:50 2022 +0900
+
+    Создать test5;test6;test7
+
+commit 2e1b59b36513cc2830bb213045bb6e0225e7d118
+Author: Ferter1 <98089387+Ferter1@users.noreply.github.com>
+Date:   Mon Jan 24 12:52:16 2022 +0900
+
+    Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+commit eb09fd36e4e8ff3ffe2c2db3244d6191623e4916 (HEAD -> main, origin/main, origin/HEAD)
+Author: Ferter1 <98089387+Ferter1@users.noreply.github.com>
+Date:   Mon Jan 24 12:57:36 2022 +0900
+
+    Наполнить файлы
+
+commit 5783b82247c8cc18c751e8a3d0f69e181c3b64de
+Author: Ferter1 <98089387+Ferter1@users.noreply.github.com>
+Date:   Mon Jan 24 12:57:00 2022 +0900
+
+    Добавил test8
+
+commit 0933d2963a16c6cb07a1cf71adac71e8db1311a1
+Author: Ferter1 <98089387+Ferter1@users.noreply.github.com>
+Date:   Mon Jan 24 12:55:57 2022 +0900
+
+    Delete test7.txt
+
+commit 37956478afd846f2836f7d22d426352589aadde3
+Author: Ferter1 <98089387+Ferter1@users.noreply.github.com>
+Date:   Mon Jan 24 12:54:50 2022 +0900
+
+    Создать test5;test6;test7
+
+commit 2e1b59b36513cc2830bb213045bb6e0225e7d118
+Author: Ferter1 <98089387+Ferter1@users.noreply.github.com>
+Date:   Mon Jan 24 12:52:16 2022 +0900
+
+    Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
